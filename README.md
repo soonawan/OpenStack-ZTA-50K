@@ -1,7 +1,9 @@
+
 # OpenStack-ZTA-50K: Synthetic Zero Trust Cloud Access-Control Dataset
 
-[[License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[[Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![DOI](https://zenodo.org/badge/1468045236.svg)](https://doi.org/10.5281/zenodo.24450448)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 
 **OpenStack-ZTA-50K** is a reproducible synthetic evaluation corpus designed to benchmark Zero Trust Architecture (ZTA) access-control policies, deterministic rule checks, and machine-learning risk scorers in OpenStack-like cloud environments (spanning Nova, Neutron, and Cinder).
 
